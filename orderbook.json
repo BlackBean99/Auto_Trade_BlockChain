@@ -1,0 +1,35 @@
+[
+    {'market': 'KRW-BTC', 'timestamp': 1615184350878, 'total_ask_size': 1.75401232, 'total_bid_size': 1.26266166, 'orderbook_units': [
+            {'ask_price': 58029000.0, 'bid_price': 58020000.0, 'ask_size': 0.04057675, 'bid_size': 0.1581041
+            },
+            {'ask_price': 58033000.0, 'bid_price': 58019000.0, 'ask_size': 0.22086972, 'bid_size': 0.00154283
+            },
+            {'ask_price': 58034000.0, 'bid_price': 58017000.0, 'ask_size': 0.38374628, 'bid_size': 0.10588799
+            },
+            {'ask_price': 58035000.0, 'bid_price': 58016000.0, 'ask_size': 0.02606308, 'bid_size': 0.0158224
+            },
+            {'ask_price': 58038000.0, 'bid_price': 58015000.0, 'ask_size': 0.00026, 'bid_size': 0.00025609
+            },
+            {'ask_price': 58049000.0, 'bid_price': 58014000.0, 'ask_size': 0.00048795, 'bid_size': 0.00012927
+            },
+            {'ask_price': 58053000.0, 'bid_price': 58013000.0, 'ask_size': 0.00056349, 'bid_size': 0.00062819
+            },
+            {'ask_price': 58055000.0, 'bid_price': 58012000.0, 'ask_size': 0.10093736, 'bid_size': 0.00012928
+            },
+            {'ask_price': 58056000.0, 'bid_price': 58011000.0, 'ask_size': 0.04243452, 'bid_size': 0.00102928
+            },
+            {'ask_price': 58061000.0, 'bid_price': 58010000.0, 'ask_size': 0.00366291, 'bid_size': 0.00591622
+            },
+            {'ask_price': 58070000.0, 'bid_price': 58009000.0, 'ask_size': 0.02199999, 'bid_size': 0.34770576
+            },
+            {'ask_price': 58077000.0, 'bid_price': 58008000.0, 'ask_size': 0.71860404, 'bid_size': 0.38155231
+            },
+            {'ask_price': 58080000.0, 'bid_price': 58007000.0, 'ask_size': 0.00089254, 'bid_size': 0.23063358
+            },
+            {'ask_price': 58089000.0, 'bid_price': 58006000.0, 'ask_size': 0.00101369, 'bid_size': 0.01229507
+            },
+            {'ask_price': 58090000.0, 'bid_price': 58005000.0, 'ask_size': 0.1919, 'bid_size': 0.00102929
+            }
+        ]
+    }
+]
