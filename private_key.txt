@@ -1,5 +1,0 @@
-Upbit key
-accesskey = 
-jw00qLYRdKSpxbr4DPxblbrBQr0X3xmM1BRjgQtC
-secret Key = 
-PjxyCzqSCKanP7LdOCwIlEENt0LlL6uumxw3mDLO
